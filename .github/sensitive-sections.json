@@ -1,0 +1,7 @@
+{
+  "type": "counterplay.sections/1",
+  "sections": [
+    { "id": "auth", "paths": ["src/auth/**"], "owners": ["SrishtiCode"] },
+    { "id": "infra", "paths": [".github/**"], "owners": ["SrishtiCode"] }
+  ]
+}
